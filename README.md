@@ -109,8 +109,8 @@ These outcomes reflect both theoretical understanding and hands-on coding experi
 
 For suggestions, collaboration, or feedback, feel free to reach out:
 
-- **GitHub:** [https://github.com/Shrutika51](https://github.com/Shrutika51)  
-- **LinkedIn:** [https://www.linkedin.com/in/shrutika-mehare-29b8a4320/](https://www.linkedin.com/in/shrutika-mehare-29b8a4320/)
+- **GitHub:** 
+- **LinkedIn:** 
 
 ---
 
