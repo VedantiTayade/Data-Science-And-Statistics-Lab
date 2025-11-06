@@ -109,8 +109,8 @@ These outcomes reflect both theoretical understanding and hands-on coding experi
 
 For suggestions, collaboration, or feedback, feel free to reach out:
 
-- **GitHub:** 
-- **LinkedIn:** 
+- **GitHub** :https://github.com/VedantiTayade/Data-Science-And-Statistics-Lab
+- **LinkedIn**: www.linkedin.com/in/vedanti-tayade-425a6331b
 
 ---
 
