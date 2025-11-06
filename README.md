@@ -111,6 +111,7 @@ For suggestions, collaboration, or feedback, feel free to reach out:
 
 - **GitHub** :https://github.com/VedantiTayade/Data-Science-And-Statistics-Lab
 - **LinkedIn**: www.linkedin.com/in/vedanti-tayade-425a6331b
+- **Google drive**: https://drive.google.com/drive/folders/13BRUNifqKBmIo2WxY-XU80wXyHzL_8qq
 
 ---
 
